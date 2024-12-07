@@ -1,3 +1,3 @@
-const message = "Hell World";
+import { startServer } from './server.js';
 
-console.log(message);
+startServer();
